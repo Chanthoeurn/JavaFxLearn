@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TwoOpenSecondScenes/Main.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/UI/MyGui$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/UI/MyGui.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/sample/Controller.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/sample/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/sample/sample.fxml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/UI/MyGui.java" afterPath="$PROJECT_DIR$/src/OneUI/MyGui.java" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" afterPath="" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -388,6 +377,14 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
     </task>
+    <task id="LOCAL-00001" summary="OpenSecondScenes">
+      <created>1515916935410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515916935410</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -436,6 +433,8 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="OpenSecondScenes" />
+    <option name="LAST_COMMIT_MESSAGE" value="OpenSecondScenes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
