@@ -1,4 +1,4 @@
-package UI;
+package OneUI;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -8,9 +8,6 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
-
-import javax.swing.*;
-import java.util.EventListener;
 
 public class MyGui extends Application implements EventHandler<ActionEvent> {
 
